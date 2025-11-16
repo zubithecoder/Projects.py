@@ -1,3 +1,5 @@
+# Making QRCode generator Using Only Python
+
 import qrcode
 
 data = input("Enter the text or URL: ").strip()
